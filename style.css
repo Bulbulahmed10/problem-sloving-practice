@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+ 
+.container{
+  padding: 20px; 
+  width: 100%;
+  border-bottom: 1px solid gray;
+}
+
+.container h1{
+  padding-bottom: 10px;
+  font-size: 25px;
+  text-align: center;
+  color: darkorchid;
+}
+
+button{
+  padding: 10px 20px;
+  font-size: 16px;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.container p{
+  padding: 10px 0;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+/*=========== problem4-container css here =========== */
+
+.problem4-container input{
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+
+
